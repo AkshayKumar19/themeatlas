@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/themeatlas/static/css/main.8aadc1b6.chunk.css",
+    "main.js": "/themeatlas/static/js/main.0414e456.chunk.js",
+    "main.js.map": "/themeatlas/static/js/main.0414e456.chunk.js.map",
+    "runtime-main.js": "/themeatlas/static/js/runtime-main.7764e10e.js",
+    "runtime-main.js.map": "/themeatlas/static/js/runtime-main.7764e10e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/themeatlas/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56924213.chunk.js": "/themeatlas/static/js/2.56924213.chunk.js",
+    "static/js/2.56924213.chunk.js.map": "/themeatlas/static/js/2.56924213.chunk.js.map",
+    "index.html": "/themeatlas/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/themeatlas/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8aadc1b6.chunk.css.map": "/themeatlas/static/css/main.8aadc1b6.chunk.css.map",
+    "static/js/2.56924213.chunk.js.LICENSE.txt": "/themeatlas/static/js/2.56924213.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/themeatlas/static/media/top_cover.5cfd1320.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7764e10e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.56924213.chunk.js",
+    "static/css/main.8aadc1b6.chunk.css",
+    "static/js/main.0414e456.chunk.js"
+  ]
+}
