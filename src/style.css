@@ -741,6 +741,6 @@ label{
 }
 @media screen and (max-width:302px) {
     .detailsbtnnn{
-        margin-top: 5px;
+        margin-top: 5px !important;
     }
 }
