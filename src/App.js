@@ -11,18 +11,18 @@ const App = () => {
     <>
     <Switch>
       <Route exact path="/" component={Home} />
-      <Route exact path="/themeatlas/#/blog" component={Blog} />
-      <Route exact path="/themeatlas/#/category/wordpresstheme" component={()=>
+      <Route exact path="/blog" component={Blog} />
+      <Route exact path="/category/wordpresstheme" component={()=>
         <Wordpresstheme cat={"wordpress"}/>}/>
-      <Route exact path="/themeatlas/#/category/php" component={()=>
+      <Route exact path="/category/php" component={()=>
         <Wordpresstheme cat={"php"}/>}/>
-      <Route exact path="/themeatlas/#/category/ecommerce" component={()=>
+      <Route exact path="/category/ecommerce" component={()=>
         <Wordpresstheme cat={"ecommerce"}/>}/>
-      <Route exact path="/themeatlas/#/category/wordpressplugins" component={()=>
+      <Route exact path="/category/wordpressplugins" component={()=>
         <Wordpresstheme cat={"wordpressplugins"}/>}/>
-      <Route exact path="/themeatlas/#/subcategory/blog" component={Subcat}/>
-      <Route exact path="/themeatlas/#/subcategory/buddypress" component={()=><Subcat cat={"buddypress"}/>}/>
-      <Route exact path="/themeatlas/#/subcategory/corporate" component={()=><Subcat cat={"corporate"}/> } />
+      <Route exact path="/subcategory/blog" component={Subcat}/>
+      <Route exact path="/subcategory/buddypress" component={()=><Subcat cat={"buddypress"}/>}/>
+      <Route exact path="/subcategory/corporate" component={()=><Subcat cat={"corporate"}/> } />
     </Switch>
     </>
   )
