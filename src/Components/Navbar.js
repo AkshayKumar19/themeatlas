@@ -16,7 +16,7 @@ const Navbar = () => {
                     <div className="navbars ">
                         <div className="row">
                             <div className="col-4 col-md-4 col-lg-2">
-                                <h1 className="mr-5"><NavLink to="/"><img src="../imgs/logo.png" alt="logo" className="img-fluid" /></NavLink></h1>
+                                <h1 className="mr-5"><NavLink to="/"><img src="imgs/logo.png" alt="logo" className="img-fluid" /></NavLink></h1>
                             </div>
                             <div className="col-md-8 col-4 position-relative search">
                                 <input type="text" className="w-75 py-2 px-4 rounded border-0" placeholder="Search themes & Scripts eg.ecommerce,creative,education,food" />

@@ -33,40 +33,40 @@ const Home = () => {
                         <div className="row mt-10 ">
                             <div className="col-12 col-md-10 mx-auto my-1">
                                 <div className="row justify-content-center ttt">
-                                    <Tooltips img={"../imgs/tips/img1.jpg"}
+                                    <Tooltips img={"imgs/tips/img1.jpg"}
                                     cont={"Wokie - multipurpose Shopify theme"} />
-                                    <Tooltips img={"../imgs/tips/img2.png"}
+                                    <Tooltips img={"imgs/tips/img2.png"}
                                     cont={"Feello - Personal Blog XD Template"}  />
-                                    <Tooltips img={"../imgs/tips/img3.png"}
+                                    <Tooltips img={"imgs/tips/img3.png"}
                                     cont={"Golo  - Directory & Listing HTML Template"}  />
-                                    <Tooltips img={"../imgs/tips/img4.png"} 
+                                    <Tooltips img={"imgs/tips/img4.png"} 
                                         cont={"Whatsapp Fake chat Generator Script"} 
                                     />
-                                    <Tooltips img={"../imgs/tips/img5.jpg"} 
+                                    <Tooltips img={"imgs/tips/img5.jpg"} 
                                         cont={"Websub link Manager PHP Script"} 
                                     />
-                                    <Tooltips img={"../imgs/tips/img7.jpg"} 
+                                    <Tooltips img={"imgs/tips/img7.jpg"} 
                                         cont={"VPN Script - Advanced VPN Management Scripts"} 
                                     />
-                                    <Tooltips img={"../imgs/tips/img8.jpg"} 
+                                    <Tooltips img={"imgs/tips/img8.jpg"} 
                                         cont={"VPN Script - Advanced VPN Management Scripts"} 
                                         
                                     />
-                                    <Tooltips img={"../imgs/tips/img9.jpg"}
+                                    <Tooltips img={"imgs/tips/img9.jpg"}
                                     cont={"Shareplus video download"}  />
-                                    <Tooltips img={"../imgs/tips/img10.jpg"} 
+                                    <Tooltips img={"imgs/tips/img10.jpg"} 
                                         cont={"Server File Explore - PHP file Manager Scripts"} 
                                     />
-                                    <Tooltips img={"../imgs/tips/img11.jpg"} 
+                                    <Tooltips img={"imgs/tips/img11.jpg"} 
                                         cont={"SavinLo - Saving Loan Investment Scripts"} 
                                     />
-                                    <Tooltips img={"../imgs/tips/img12.jpg"} 
+                                    <Tooltips img={"imgs/tips/img12.jpg"} 
                                         cont={"ProADs - Online Advertising Network Scripts"} 
                                     />
-                                    <Tooltips img={"../imgs/tips/img13.jpg"} 
+                                    <Tooltips img={"imgs/tips/img13.jpg"} 
                                         cont={"Minght Cloud Mining Scripts"} 
                                     />
-                                    <Tooltips img={"../imgs/tips/img14.jpg"} 
+                                    <Tooltips img={"imgs/tips/img14.jpg"} 
                                         cont={"VPN Script - Advanced VPN Management Scripts"} 
                                     />
                                 </div>
