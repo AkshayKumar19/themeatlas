@@ -278,7 +278,7 @@ li{
 }
 
 body {
-    background-color: #fff
+    background-color: #fff !important;
 }
 
 .mt-100 {
