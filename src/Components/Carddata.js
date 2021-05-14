@@ -1,6 +1,6 @@
 const featured = [
     {
-        img:"../imgs/theme/keynote.webp",
+        img:"imgs/theme/keynote.webp",
         heading:"The Keynote - Conference / Event WordPress",
         theme:"WORDPRESS THEMES",
         rating:"4.5",
@@ -9,7 +9,7 @@ const featured = [
         type:"php"
     },
     {
-        img:"../imgs/theme/once.webp",
+        img:"imgs/theme/once.webp",
         heading:"Once - Clean & Elegant WordPress Blog Theme",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -19,7 +19,7 @@ const featured = [
     },
     {
         
-        img:"../imgs/theme/cosmetsy.webp",
+        img:"imgs/theme/cosmetsy.webp",
         heading:"Cosmetsy - Beauty Cosmetics Shop Theme",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -30,7 +30,7 @@ const featured = [
         
     },
     {
-        img:"../imgs/theme/once.webp",
+        img:"imgs/theme/once.webp",
         heading:"Once - Clean & Elegant WordPress Blog Theme",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -41,7 +41,7 @@ const featured = [
         
     }, 
     {
-        img:"../imgs/theme/estate.webp",
+        img:"imgs/theme/estate.webp",
         heading:"Real Estate 7 WordPress",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -52,7 +52,7 @@ const featured = [
         
     },
     {
-        img:"../imgs/theme/intrinsic.webp",
+        img:"imgs/theme/intrinsic.webp",
         heading:"Intrinsic - Creative Personal Portfolio WordPress Themes",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -63,7 +63,7 @@ const featured = [
         
     },
     {
-        img:"../imgs/theme/aundri.webp",
+        img:"imgs/theme/aundri.webp",
         heading:"Aundri - Dry Cleaning Services WordPress Theme + RTL",
         theme:"WORDPRESS THEMES",
         rating:"3.5",
@@ -74,7 +74,7 @@ const featured = [
         
     },
     {
-        img:"../imgs/theme/digeco.webp",
+        img:"imgs/theme/digeco.webp",
         heading:"Digeco – Startup Agency WordPress Themes",
         theme:"WORDPRESS THEMES",
         rating:"4.5",
@@ -85,7 +85,7 @@ const featured = [
         
     },
     {
-        img:"../imgs/theme/green.webp",
+        img:"imgs/theme/green.webp",
         heading:"Green Farm – Organic Food & Eco Farm WP Theme",
         theme:"WORDPRESS THEMES",
         rating:"3.5",
@@ -94,7 +94,7 @@ const featured = [
         type:"php"
     },
     {
-        img:"../imgs/theme/keynote.webp",
+        img:"imgs/theme/keynote.webp",
         heading:"The Keynote - Conference / Event WordPress",
         theme:"WORDPRESS THEMES",
         rating:"4.5",
@@ -103,7 +103,7 @@ const featured = [
         type:"php"
     },
     {
-        img:"../imgs/theme/once.webp",
+        img:"imgs/theme/once.webp",
         heading:"Once - Clean & Elegant WordPress Blog Theme",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -112,7 +112,7 @@ const featured = [
         type:"php"
     },
     {
-        img:"../imgs/theme/estate.webp",
+        img:"imgs/theme/estate.webp",
         heading:"Real Estate 7 WordPress",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -121,7 +121,7 @@ const featured = [
         type:"php"
     },
     {
-        img:"../imgs/theme/intrinsic.webp",
+        img:"imgs/theme/intrinsic.webp",
         heading:"Intrinsic - Creative Personal Portfolio WordPress Themes",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -130,7 +130,7 @@ const featured = [
         type:"php"
     },
     {
-        img:"../imgs/theme/cosmetsy.webp",
+        img:"imgs/theme/cosmetsy.webp",
         heading:"Cosmetsy - Beauty Cosmetics Shop Theme",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -139,7 +139,7 @@ const featured = [
         type:"wordpress"
     },
     {
-        img:"../imgs/theme/green.webp",
+        img:"imgs/theme/green.webp",
         heading:"Green Farm – Organic Food & Eco Farm WP Theme",
         theme:"WORDPRESS THEMES",
         rating:"3.5",
@@ -148,7 +148,7 @@ const featured = [
         type:"wordpress"
     },
     {
-        img:"../imgs/theme/keynote.webp",
+        img:"imgs/theme/keynote.webp",
         heading:"The Keynote - Conference / Event WordPress",
         theme:"WORDPRESS THEMES",
         rating:"4.5",
@@ -157,7 +157,7 @@ const featured = [
         type:"wordpress"
     },
     {
-        img:"../imgs/theme/once.webp",
+        img:"imgs/theme/once.webp",
         heading:"Once - Clean & Elegant WordPress Blog Theme",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -166,7 +166,7 @@ const featured = [
         type:"wordpress"
     },
     {
-        img:"../imgs/theme/estate.webp",
+        img:"imgs/theme/estate.webp",
         heading:"Real Estate 7 WordPress",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -175,7 +175,7 @@ const featured = [
         type:"wordpress"
     },
     {
-        img:"../imgs/theme/intrinsic.webp",
+        img:"imgs/theme/intrinsic.webp",
         heading:"Intrinsic - Creative Personal Portfolio WordPress Themes",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -185,7 +185,7 @@ const featured = [
     },
     {
         
-        img:"../imgs/theme/fastest.png",
+        img:"imgs/theme/fastest.png",
         heading:"Fastest - Multipurpose Responsive Magento 2 and 1...",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -196,7 +196,7 @@ const featured = [
 
     },
     {
-        img:"../imgs/theme/sahara.png",
+        img:"imgs/theme/sahara.png",
         heading:"SAHARA - Responsive Magento 1 & 2 Theme",
         theme:"WORDPRESS THEMES",
         rating:"3.5",
@@ -207,7 +207,7 @@ const featured = [
 
     },
     {
-        img:"../imgs/theme/ves.png",
+        img:"imgs/theme/ves.png",
         heading:"Ves Fashion - Responsive Multipurpose Magento 2.2....",
         theme:"WORDPRESS THEMES",
         rating:"4.5",
@@ -218,7 +218,7 @@ const featured = [
 
     },
     {
-        img:"../imgs/theme/boutique.png",
+        img:"imgs/theme/boutique.png",
         heading:"Boutique Magento 2 Theme | RTL Supported",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -229,7 +229,7 @@ const featured = [
 
     }, 
     {
-        img:"../imgs/theme/maxsima.png",
+        img:"imgs/theme/maxsima.png",
         heading:"Maxsima Kids Store Magento 2 Theme",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -240,7 +240,7 @@ const featured = [
 
     },
     {
-        img:"../imgs/theme/spozy.png",
+        img:"imgs/theme/spozy.png",
         heading:"Spozy Magento 2 Theme | RTL Supported",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -251,7 +251,7 @@ const featured = [
 
     },
     {
-        img:"../imgs/theme/time.webp",
+        img:"imgs/theme/time.webp",
         heading:"Time - Modern Magento 2 Watch Store Theme",
         theme:"WORDPRESS THEMES",
         rating:"3.5",
@@ -262,7 +262,7 @@ const featured = [
 
     },
     {
-        img:"../imgs/theme/peace.webp",
+        img:"imgs/theme/peace.webp",
         heading:"Peace - Bedroom Furniture Magento 2 Theme",
         theme:"WORDPRESS THEMES",
         rating:"4.5",
@@ -273,7 +273,7 @@ const featured = [
 
     },
     {
-        img:"../imgs/theme/ozone.webp",
+        img:"imgs/theme/ozone.webp",
         heading:"Ozone - Best Magento Minimalist Theme",
         theme:"WORDPRESS THEMES",
         rating:"4.5",
@@ -283,7 +283,7 @@ const featured = [
 
     },
     {
-        img:"../imgs/theme/estate.webp",
+        img:"imgs/theme/estate.webp",
         heading:"Real Estate 7 WordPress",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -294,7 +294,7 @@ const featured = [
         
     },
     {
-        img:"../imgs/theme/intrinsic.webp",
+        img:"imgs/theme/intrinsic.webp",
         heading:"Intrinsic - Creative Personal Portfolio WordPress Themes",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -305,7 +305,7 @@ const featured = [
         
     },
     {
-        img:"../imgs/theme/aundri.webp",
+        img:"imgs/theme/aundri.webp",
         heading:"Aundri - Dry Cleaning Services WordPress Theme + RTL",
         theme:"WORDPRESS THEMES",
         rating:"3.5",
@@ -316,7 +316,7 @@ const featured = [
         
     },
     {
-        img:"../imgs/theme/digeco.webp",
+        img:"imgs/theme/digeco.webp",
         heading:"Digeco – Startup Agency WordPress Themes",
         theme:"WORDPRESS THEMES",
         rating:"4.5",
@@ -327,7 +327,7 @@ const featured = [
         
     },
     {
-        img:"../imgs/theme/green.webp",
+        img:"imgs/theme/green.webp",
         heading:"Green Farm – Organic Food & Eco Farm WP Theme",
         theme:"WORDPRESS THEMES",
         rating:"3.5",
@@ -336,7 +336,7 @@ const featured = [
         type:"ecommerce"
     },
     {
-        img:"../imgs/theme/keynote.webp",
+        img:"imgs/theme/keynote.webp",
         heading:"The Keynote - Conference / Event WordPress",
         theme:"WORDPRESS THEMES",
         rating:"4.5",
@@ -345,7 +345,7 @@ const featured = [
         type:"ecommerce"
     },
     {
-        img:"../imgs/theme/once.webp",
+        img:"imgs/theme/once.webp",
         heading:"Once - Clean & Elegant WordPress Blog Theme",
         theme:"WORDPRESS THEMES",
         rating:"5",
@@ -358,7 +358,7 @@ const featured = [
 export const trending = [
     {
         
-            img:"../imgs/theme/cosmetsy.webp",
+            img:"imgs/theme/cosmetsy.webp",
             heading:"Cosmetsy - Beauty Cosmetics Shop Theme",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -366,7 +366,7 @@ export const trending = [
             price:"47",
         },
         {
-            img:"../imgs/theme/once.webp",
+            img:"imgs/theme/once.webp",
             heading:"Once - Clean & Elegant WordPress Blog Theme",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -374,7 +374,7 @@ export const trending = [
             price:"39"
         }, 
         {
-            img:"../imgs/theme/estate.webp",
+            img:"imgs/theme/estate.webp",
             heading:"Real Estate 7 WordPress",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -382,7 +382,7 @@ export const trending = [
             price:"59"
         },
         {
-            img:"../imgs/theme/intrinsic.webp",
+            img:"imgs/theme/intrinsic.webp",
             heading:"Intrinsic - Creative Personal Portfolio WordPress Themes",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -390,7 +390,7 @@ export const trending = [
             price:"23"
         },
         {
-            img:"../imgs/theme/aundri.webp",
+            img:"imgs/theme/aundri.webp",
             heading:"Aundri - Dry Cleaning Services WordPress Theme + RTL",
             theme:"WORDPRESS THEMES",
             rating:"3.5",
@@ -398,7 +398,7 @@ export const trending = [
             price:"57"
         },
         {
-            img:"../imgs/theme/digeco.webp",
+            img:"imgs/theme/digeco.webp",
             heading:"Digeco – Startup Agency WordPress Themes",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -411,7 +411,7 @@ export const trending = [
 export const wordpress = [
     {
         
-            img:"../imgs/theme/cosmetsy.webp",
+            img:"imgs/theme/cosmetsy.webp",
             heading:"Cosmetsy - Beauty Cosmetics Shop Theme",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -420,7 +420,7 @@ export const wordpress = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/green.webp",
+            img:"imgs/theme/green.webp",
             heading:"Green Farm – Organic Food & Eco Farm WP Theme",
             theme:"WORDPRESS THEMES",
             rating:"3.5",
@@ -429,7 +429,7 @@ export const wordpress = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/keynote.webp",
+            img:"imgs/theme/keynote.webp",
             heading:"The Keynote - Conference / Event WordPress",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -438,7 +438,7 @@ export const wordpress = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/once.webp",
+            img:"imgs/theme/once.webp",
             heading:"Once - Clean & Elegant WordPress Blog Theme",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -447,7 +447,7 @@ export const wordpress = [
             date:"April 24,2021"
         }, 
         {
-            img:"../imgs/theme/estate.webp",
+            img:"imgs/theme/estate.webp",
             heading:"Real Estate 7 WordPress",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -456,7 +456,7 @@ export const wordpress = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/intrinsic.webp",
+            img:"imgs/theme/intrinsic.webp",
             heading:"Intrinsic - Creative Personal Portfolio WordPress Themes",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -465,7 +465,7 @@ export const wordpress = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/aundri.webp",
+            img:"imgs/theme/aundri.webp",
             heading:"Aundri - Dry Cleaning Services WordPress Theme + RTL",
             theme:"WORDPRESS THEMES",
             rating:"3.5",
@@ -475,7 +475,7 @@ export const wordpress = [
             type:"corporate",
         },
         {
-            img:"../imgs/theme/digeco.webp",
+            img:"imgs/theme/digeco.webp",
             heading:"Digeco – Startup Agency WordPress Themes",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -484,7 +484,7 @@ export const wordpress = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/sweet.webp",
+            img:"imgs/theme/sweet.webp",
             heading:"Sweet Date - More than a Wordpress Dating Theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -493,7 +493,7 @@ export const wordpress = [
             type:"buddypress"
         },
         {
-            img:"../imgs/theme/wordpress/retailer.png",
+            img:"imgs/theme/wordpress/retailer.png",
             heading:"The Retailer - eCommerce WordPress Theme for WooCommerces",
             theme:"WORDPRESS THEMES",
             para:"",
@@ -503,7 +503,7 @@ export const wordpress = [
             type:"blog"
         },
         {
-            img:"../imgs/theme/wordpress/anymag.webp",
+            img:"imgs/theme/wordpress/anymag.webp",
             heading:"Anymag - Magazine Style WordPress Blog",
             theme:"WORDPRESS THEMES",
             para:"Buy Anymag - Magazine Style WordPress Blog by 3-Styler on ThemeForest. Feature List Unique Magazine Style Design Hidd...",
@@ -513,7 +513,7 @@ export const wordpress = [
             type:"blog"
         },
         {
-            img:"../imgs/theme/wordpress/jannah.png",
+            img:"imgs/theme/wordpress/jannah.png",
             heading:"Jannah - Newspaper Magazine News BuddyPress AMP",
             theme:"WORDPRESS THEMES",
             para:"Buy Jannah - Newspaper Magazine News BuddyPress AMP by TieLabs on ThemeForest. Jannah has Content Marketing covered w...",
@@ -523,7 +523,7 @@ export const wordpress = [
             type:"blog"
         },
         {
-            img:"../imgs/theme/wordpress/voux.webp",
+            img:"imgs/theme/wordpress/voux.webp",
             heading:"The Voux - A Comprehensive Magazine WordPress Theme",
             theme:"WORDPRESS THEMES",
             para:"The Voux has been designed with absolute attention to detail. Within you will find five beautifully crafted homepage...",
@@ -533,7 +533,7 @@ export const wordpress = [
             type:"blog"
         },
         {
-            img:"../imgs/theme/wordpress/gillion.webp",
+            img:"imgs/theme/wordpress/gillion.webp",
             heading:"Gillion | Multi-Concept Blog/Magazine & Shop WordPress AMP Theme",
             theme:"WORDPRESS THEMES",
             para:"Gillion has been pre-made for you with 15+ high-quality fully functioning website demos that are ready to be customiz...",
@@ -543,7 +543,7 @@ export const wordpress = [
             type:"blog"
         },
         {
-            img:"../imgs/theme/wordpress/soledad.png",
+            img:"imgs/theme/wordpress/soledad.png",
             heading:"Soledad - Multi-Concept Blog Magazine AMP WordPress Theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -552,7 +552,7 @@ export const wordpress = [
             type:"blog"
         },
         {
-            img:"../imgs/theme/wordpress/orca.png",
+            img:"imgs/theme/wordpress/orca.png",
             heading:"Orca - Responsive Ghost Theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -561,7 +561,7 @@ export const wordpress = [
             type:"blog"
         },
         {
-            img:"../imgs/theme/wordpress/woffice.png",
+            img:"imgs/theme/wordpress/woffice.png",
             heading:"Woffice - Intranet/Extranet WordPress Theme",
             theme:"WORDPRESS THEMES",
             para:"Buy Woffice - Intranet/Extranet WordPress Theme by Alkaweb on ThemeForest. Why Woffice? Constant flow of new features...",
@@ -571,7 +571,7 @@ export const wordpress = [
             type:"buddypress"
         },
         {
-            img:"../imgs/theme/wordpress/kleo.png",
+            img:"imgs/theme/wordpress/kleo.png",
             heading:"KLEO - Pro Community Focused, Multi-Purpose BuddyPress Theme",
             theme:"WORDPRESS THEMES",
             para:"KLEO is a strong and stable BuddyPress theme with over 18K trusted clients. KLEO also integrates very nice with a vas...",
@@ -581,7 +581,7 @@ export const wordpress = [
             type:"buddypress"
         },
         {
-            img:"../imgs/theme/wordpress/the7.webp",
+            img:"imgs/theme/wordpress/the7.webp",
             heading:"The7 — Multi-Purpose WordPress Theme",
             theme:"WORDPRESS THEMES",
             para:"The7 features full and seamless integration with WPBakery Page Builder (formerly Visual Composer)",
@@ -591,7 +591,7 @@ export const wordpress = [
             type:"buddypress"
         },
         {
-            img:"../imgs/theme/wordpress/astra.webp",
+            img:"imgs/theme/wordpress/astra.webp",
             heading:"Astra Theme",
             theme:"WORDPRESS THEMES",
             para:"Free Wordspress Theme",
@@ -601,7 +601,7 @@ export const wordpress = [
             type:"buddypress"
         },
         {
-            img:"../imgs/theme/wordpress/estore.webp",
+            img:"imgs/theme/wordpress/estore.webp",
             heading:"estore Theme",
             theme:"WORDPRESS THEMES",
             para:"Free Wordspress Theme",
@@ -611,7 +611,7 @@ export const wordpress = [
             type:"buddypress"
         },
         {
-            img:"../imgs/theme/wordpress/neve.png",
+            img:"imgs/theme/wordpress/neve.png",
             heading:"Theshop Theme",
             theme:"WORDPRESS THEMES",
             para:"TheShop is an extremely simple to utilize web-based business subject, viable with the well known WooCommerce module. TheShop incorporates a custom...",
@@ -621,7 +621,7 @@ export const wordpress = [
             type:"buddypress"
         },
         {
-            img:"../imgs/theme/wordpress/trix.png",
+            img:"imgs/theme/wordpress/trix.png",
             heading:"Trix - Startup Business Theme",
             theme:"WORDPRESS THEMES",
             para:"Trix is multipurpose startup theme for any type of startup business. Trix is powered by Elementor, it’s fast, s...",
@@ -631,7 +631,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/povash.png",
+            img:"imgs/theme/wordpress/povash.png",
             heading:"Povash | Power Wash WordPress Theme + RTL",
             theme:"WORDPRESS THEMES",
             para:"Povash wordpress theme is the best choice for Power washing and pressure washing. This theme have details pages for a....",
@@ -641,7 +641,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/automobi.webp",
+            img:"imgs/theme/wordpress/automobi.webp",
             heading:"AutoMobi Theme - Car Dealers Car Accessories Car Portals WordPres...",
             theme:"WORDPRESS THEMES",
             para:"AutoMobi theme is the ideal fit for car dealers, car accessories stores, car portals, rental companies, vehicle relat..",
@@ -651,7 +651,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/modernize.webp",
+            img:"imgs/theme/wordpress/modernize.webp",
             heading:"Modernize - Flexibility of WordPress",
             theme:"WORDPRESS THEMES",
             para:"Modernize is a new era of wordpress theme. You can discover many new awesome features in this t...",
@@ -661,7 +661,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/striking.webp",
+            img:"imgs/theme/wordpress/striking.webp",
             heading:"Striking - MultiFlex & Ecommerce Responsive WP Theme",
             theme:"WORDPRESS THEMES",
             para:"Striking MultiFlex includes an easy “One Touch” demo content install function with the 3 differen...",
@@ -671,7 +671,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/consulting.png",
+            img:"imgs/theme/wordpress/consulting.png",
             heading:"Consulting - Business, Finance WordPress Theme",
             theme:"WORDPRESS THEMES",
             para:"Consulting 6.0 is here! Consulting WP supports now both Elementor&n...",
@@ -681,7 +681,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/listing.png",
+            img:"imgs/theme/wordpress/listing.png",
             heading:"ListingPro - WordPress Directory Theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -690,7 +690,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/musca.png",
+            img:"imgs/theme/wordpress/musca.png",
             heading:"Musca - Multipurpose WordPress theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -699,7 +699,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/reobiz.png",
+            img:"imgs/theme/wordpress/reobiz.png",
             heading:"Reobiz - Consulting Business WordPress Theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -708,7 +708,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/consulting.png",
+            img:"imgs/theme/wordpress/consulting.png",
             heading:"Consulting - Business, Finance WordPress Theme",
             theme:"WORDPRESS THEMES",
             para:"Consulting 6.0 is here! Consulting WP supports now both Elementor&n...",
@@ -718,7 +718,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/listing.png",
+            img:"imgs/theme/wordpress/listing.png",
             heading:"ListingPro - WordPress Directory Theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -727,7 +727,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/musca.png",
+            img:"imgs/theme/wordpress/musca.png",
             heading:"Musca - Multipurpose WordPress theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -736,7 +736,7 @@ export const wordpress = [
             type:"corporate"
         },
         {
-            img:"../imgs/theme/wordpress/reobiz.png",
+            img:"imgs/theme/wordpress/reobiz.png",
             heading:"Reobiz - Consulting Business WordPress Theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -750,7 +750,7 @@ export const wordpress = [
 export const magento = [
     {
         
-            img:"../imgs/theme/fastest.png",
+            img:"imgs/theme/fastest.png",
             heading:"Fastest - Multipurpose Responsive Magento 2 and 1...",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -759,7 +759,7 @@ export const magento = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/sahara.png",
+            img:"imgs/theme/sahara.png",
             heading:"SAHARA - Responsive Magento 1 & 2 Theme",
             theme:"WORDPRESS THEMES",
             rating:"3.5",
@@ -768,7 +768,7 @@ export const magento = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/ves.png",
+            img:"imgs/theme/ves.png",
             heading:"Ves Fashion - Responsive Multipurpose Magento 2.2....",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -777,7 +777,7 @@ export const magento = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/boutique.png",
+            img:"imgs/theme/boutique.png",
             heading:"Boutique Magento 2 Theme | RTL Supported",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -786,7 +786,7 @@ export const magento = [
             date:"April 24,2021"
         }, 
         {
-            img:"../imgs/theme/maxsima.png",
+            img:"imgs/theme/maxsima.png",
             heading:"Maxsima Kids Store Magento 2 Theme",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -795,7 +795,7 @@ export const magento = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/spozy.png",
+            img:"imgs/theme/spozy.png",
             heading:"Spozy Magento 2 Theme | RTL Supported",
             theme:"WORDPRESS THEMES",
             rating:"5",
@@ -804,7 +804,7 @@ export const magento = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/time.webp",
+            img:"imgs/theme/time.webp",
             heading:"Time - Modern Magento 2 Watch Store Theme",
             theme:"WORDPRESS THEMES",
             rating:"3.5",
@@ -813,7 +813,7 @@ export const magento = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/peace.webp",
+            img:"imgs/theme/peace.webp",
             heading:"Peace - Bedroom Furniture Magento 2 Theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -822,7 +822,7 @@ export const magento = [
             date:"April 24,2021"
         },
         {
-            img:"../imgs/theme/ozone.webp",
+            img:"imgs/theme/ozone.webp",
             heading:"Ozone - Best Magento Minimalist Theme",
             theme:"WORDPRESS THEMES",
             rating:"4.5",
@@ -835,7 +835,7 @@ export const magento = [
 
 export const blog = [
     {
-        img:"../imgs/blog1.png",
+        img:"imgs/blog1.png",
         heading:'Top 10 Best Ready-To-Use WordPress Themes To Kick-Start Your Webs...',
         author:"Nazre",
         date:'April 29,2021',
@@ -843,7 +843,7 @@ export const blog = [
         index:"1"
     },
     {
-        img:"../imgs/blog2.png",
+        img:"imgs/blog2.png",
         heading:'Top 10 Ultimate Startup Word Press Themes in 2021',
         author:"Nazre",
         date:'April 29,2021',
@@ -851,7 +851,7 @@ export const blog = [
         index:"2"
     },
     {
-        img:"../imgs/blog3.png",
+        img:"imgs/blog3.png",
         heading:'Top 10 Tour and Travel WordPress Themes',
         author:"Nazre",
         date:'April 29,2021',
@@ -859,7 +859,7 @@ export const blog = [
         index:"3"
     },
     {
-        img:"../imgs/blog4.png",
+        img:"imgs/blog4.png",
         heading:'Top 10 Most Customizable WordPress Themes of 2021 to Explore',
         author:"Nazre",
         date:'April 29,2021',
