@@ -38,7 +38,7 @@ const Blog = (props) => {
                                 <div className="blogcat mt-2">
                                     <div className="row">
                                         <div className="col-4 ">
-                                            <img src="../imgs/blog1.png" className="img-fluid" alt="" />
+                                            <img src="imgs/blog1.png" className="img-fluid" alt="" />
                                         </div>
                                         <div className="col-8 p-0">
                                             <Link to="#">Top 10 Best Ready-To-Use WordPress Themes To Kick-Start Your Webs...</Link>
@@ -48,7 +48,7 @@ const Blog = (props) => {
                                 <div className="blogcat mt-2">
                                     <div className="row">
                                         <div className="col-4 ">
-                                            <img src="../imgs/blog2.png" className="img-fluid" alt="" />
+                                            <img src="imgs/blog2.png" className="img-fluid" alt="" />
                                         </div>
                                         <div className="col-8 p-0">
                                             <Link to="#">Top 10 Ultimate Startup Word Press Themes in 2021</Link>
@@ -59,7 +59,7 @@ const Blog = (props) => {
                                     <div className="row">
 
                                         <div className="col-4 ">
-                                            <img src="../imgs/blog3.png" className="img-fluid" alt="" />
+                                            <img src="imgs/blog3.png" className="img-fluid" alt="" />
                                         </div>
                                         <div className="col-8 p-0">
                                             <Link to="#">Top 10 Tour and Travel WordPress Themes</Link>
@@ -69,7 +69,7 @@ const Blog = (props) => {
                                 <div className="blogcat mt-2">
                                     <div className="row">
                                         <div className="col-4 ">
-                                            <img src="../imgs/blog4.png" className="img-fluid" alt="" />
+                                            <img src="imgs/blog4.png" className="img-fluid" alt="" />
                                         </div>
                                         <div className="col-8 p-0">
                                             <Link to="#">Top 10 Most Customizable WordPress Themes of 2021 to Explore</Link>
