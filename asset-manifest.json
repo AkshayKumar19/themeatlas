@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/themeatlas/static/css/main.8aadc1b6.chunk.css",
-    "main.js": "/themeatlas/static/js/main.d2ffb93c.chunk.js",
-    "main.js.map": "/themeatlas/static/js/main.d2ffb93c.chunk.js.map",
+    "main.js": "/themeatlas/static/js/main.6eb6ba63.chunk.js",
+    "main.js.map": "/themeatlas/static/js/main.6eb6ba63.chunk.js.map",
     "runtime-main.js": "/themeatlas/static/js/runtime-main.7764e10e.js",
     "runtime-main.js.map": "/themeatlas/static/js/runtime-main.7764e10e.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/themeatlas/static/css/2.4c97ca4f.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.b38fece0.chunk.js",
     "static/css/main.8aadc1b6.chunk.css",
-    "static/js/main.d2ffb93c.chunk.js"
+    "static/js/main.6eb6ba63.chunk.js"
   ]
 }
