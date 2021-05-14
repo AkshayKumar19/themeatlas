@@ -739,8 +739,8 @@ label{
         font-size: 28px;
     }
 }
-@media screen and (max-width:302px) {
+@media screen and (max-width:304px) {
     .detailsbtnnn{
-        margin-top: 5px !important;
+        margin-top: 10px !important;
     }
 }
