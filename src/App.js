@@ -10,19 +10,19 @@ const App = () => {
   return (
     <>
     <Switch>
-      <Route exact path="akshaykumar19.github.io/themeatlas/" component={Home} />
-      <Route exact path="akshaykumar19.github.io/themeatlas/blog" component={Blog} />
-      <Route exact path="akshaykumar19.github.io/themeatlas/category/wordpresstheme" component={()=>
+      <Route exact path="themeatlas/" component={Home} />
+      <Route exact path="/themeatlas/blog" component={Blog} />
+      <Route exact path="/themeatlas/category/wordpresstheme" component={()=>
         <Wordpresstheme cat={"wordpress"}/>}/>
-      <Route exact path="akshaykumar19.github.io/themeatlas/category/php" component={()=>
+      <Route exact path="/themeatlas/category/php" component={()=>
         <Wordpresstheme cat={"php"}/>}/>
-      <Route exact path="akshaykumar19.github.io/themeatlas/category/ecommerce" component={()=>
+      <Route exact path="/themeatlas/category/ecommerce" component={()=>
         <Wordpresstheme cat={"ecommerce"}/>}/>
-      <Route exact path="akshaykumar19.github.io/themeatlas/category/wordpressplugins" component={()=>
+      <Route exact path="/themeatlas/category/wordpressplugins" component={()=>
         <Wordpresstheme cat={"wordpressplugins"}/>}/>
-      <Route exact path="akshaykumar19.github.io/themeatlas/subcategory/blog" component={Subcat}/>
-      <Route exact path="akshaykumar19.github.io/themeatlas/subcategory/buddypress" component={()=><Subcat cat={"buddypress"}/>}/>
-      <Route exact path="akshaykumar19.github.io/themeatlas/subcategory/corporate" component={()=><Subcat cat={"corporate"}/> } />
+      <Route exact path="/themeatlas/subcategory/blog" component={Subcat}/>
+      <Route exact path="/themeatlas/subcategory/buddypress" component={()=><Subcat cat={"buddypress"}/>}/>
+      <Route exact path="/themeatlas/subcategory/corporate" component={()=><Subcat cat={"corporate"}/> } />
     </Switch>
     </>
   )
