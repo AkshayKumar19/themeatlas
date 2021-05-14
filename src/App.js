@@ -10,7 +10,7 @@ const App = () => {
   return (
     <>
     <Switch>
-      <Route exact path="themeatlas/" component={Home} />
+      <Route exact path="/themeatlas/" component={Home} />
       <Route exact path="/themeatlas/blog" component={Blog} />
       <Route exact path="/themeatlas/category/wordpresstheme" component={()=>
         <Wordpresstheme cat={"wordpress"}/>}/>
